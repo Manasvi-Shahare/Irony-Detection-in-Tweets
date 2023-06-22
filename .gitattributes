@@ -1,2 +1,2 @@
-*.Jupyter Notebook linguist-detectable=false
+notebooks/** linguist-vendored
 *.python linguist-detectable=true
